@@ -1,0 +1,34 @@
+1). What does P2P stand for?
+
+1. Password to Password
+2. Peer to Peer
+3. Product to Product
+4. Private Key to Public Key
+
+2). What is a node?
+
+1. A type of cryptocurrency
+2. A Blockchain
+3. A computer on a Blockchain network
+4. An exchange
+
+3). Who created Bitcoin?
+
+1. Satoshi Nakamoto
+2. Samsung
+3. John Mcafee
+4. China
+
+4). Where do you store your cryptocurrency?
+
+1. Bank account
+2. Floppy Disk
+3. Wallet
+4. In your pocket
+
+5). Where is the LEAST SAFE place to keep your cryptocurrency?
+
+1. In your pocket
+2. On an exchange
+3. On a hot wallet
+4. At your work desk

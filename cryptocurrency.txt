@@ -1,0 +1,34 @@
+1. All blocks contain a link to the previous block, except for
+
+1. The first block
+2. Block number 24601
+3. The second block
+4. The third block
+
+2. How many servers are on a decentralized network?
+
+1. 1
+2. 2
+3. None
+4. All of the Above
+
+3. What best describes a blockchain?
+
+1. A distributed ledger on a peer to peer network
+2. A Centralized Database
+3. An Exchange
+4. A type of Cryptocurrency
+
+4. What makes cryptocurrency secure?
+
+1. Servers
+2. Cryptographic Math
+3. Goverment Banks
+4. Insurance Companies
+
+5. What was FIRST known bitcoin purchase?
+
+1. Tacos
+2. Airfare
+3. Pizza
+4. More Bitcoins

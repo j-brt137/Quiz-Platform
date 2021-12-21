@@ -1,0 +1,34 @@
+1. Artificial Intelligence is about_____.
+
+1. Playing a game on Computer
+2. Making a machine Intelligent
+3. Programming on Machine with your Own Intelligence
+4. Putting your intelligence in Machine
+
+2. Who is known as the -Father of AI"?
+
+1. Fisher Ada
+2. Alan Turing
+3. John McCarthy
+4. Allen Newell
+
+3. Which of the given language is not commonly used for AI?
+
+1. LISP
+2. PROLOG
+3. Python
+4. Perl
+
+4. Which agent deals with the happy and unhappy state?
+
+1. Utility-based agent
+2. Model-based agent
+3. Goal-based Agent
+4. Learning Agent
+
+5. _____ is the goal of AI.
+
+1. To solve artificial problems
+2. To extract scientific causes
+3. To explain various sorts of intelligence
+4. To solve real-world problems
